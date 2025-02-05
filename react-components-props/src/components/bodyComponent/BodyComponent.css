@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    margin-bottom: 3em;
+   
+}
+#bodyDiv{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 3em;
+}
